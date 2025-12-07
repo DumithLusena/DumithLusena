@@ -53,14 +53,11 @@ I'm a passionate **Full Stack Developer** currently mastering the art of buildin
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dumithlusena&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumithlusena&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dumithlusena&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dumithlusena&theme=tokyonight&hide_border=true" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dumithlusena&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dumithlusena&theme=tokyonight&hide_border=true)
 
 ---
 
