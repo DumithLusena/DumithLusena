@@ -1,20 +1,62 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2D9CDB&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Dumith+Lusena;Full+Stack+Developer;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2D9CDB&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Dumith+Lusena;Associate+Full+Stack+Developer;Building+Modern+Applications+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
----
+👨‍💻 About Me
 
-## 🚀 About Me
+I'm a Full Stack Developer at Polygon Holdings, passionate about building modern, scalable, and user-friendly applications. I enjoy working across the frontend and backend, solving real-world problems, and continuously improving my software engineering skills.
 
-I'm a passionate **Full Stack Developer** currently mastering the art of building modern web applications. I love turning complex problems into simple, beautiful, and intuitive solutions.
+Currently pursuing my Pearson BTEC HND in Computing (Software Engineering) at Saegis Campus while gaining hands-on industry experience in software development.
 
-- 💡 Exploring **React**, **Node.js**, **Spring Boot**, and **Mobile Development**
-- 🌱 Always learning and growing my skill set
-- 💬 Ask me about **Java**, **Spring Boot**, **Angular**, **React**, or **Node.js**
-- 📫 Reach me at **dumithlusena123@gmail.com**
-- ⚡ Fun fact: I enjoy building seamless user experiences from frontend to backend
+💼 Current Role: Associate Full Stack Developer
 
----
+🏢 Company: Polygon Holdings
+
+🎓 Education: Pearson BTEC HND in Computing (Software Engineering) — Saegis Campus
+
+💻 Frontend: React, Next.js, Angular, TypeScript
+
+⚙️ Backend: Node.js, Express.js, Java, Spring Boot
+
+🗄️ Databases: MySQL, PostgreSQL
+
+☁️ Cloud & Deployment: AWS, Vercel, Railway
+
+📱 Mobile Development: Exploring Flutter and React Native
+
+🤖 Interests: AI-powered applications, cloud technologies, and scalable software systems
+
+📫 Email: dumithlusena123@gmail.com
+
+I started my professional journey as a Full Stack Developer Intern and continue to grow through hands-on development, collaboration, debugging, and delivering practical software solutions.
+
+💼 Professional Experience
+
+🚀 Associate Full Stack Developer | Polygon Holdings
+
+Career progression: Full Stack Developer Intern → Associate Full Stack Developer
+
+Working on real-world software applications, contributing to frontend and backend development, API integration, database operations, and application improvements.
+
+Key Areas of Experience:
+
+Developing and maintaining modern web applications.
+
+Building and integrating RESTful APIs.
+
+Working with frontend frameworks and backend technologies.
+
+Managing relational databases and writing SQL queries.
+
+Implementing authentication and role-based access control.
+
+Debugging application issues and improving existing functionality.
+
+Collaborating through Git-based development workflows.
+
+Working with deployment platforms and cloud technologies.
+
+Technologies: Node.js, Express.js, Next.js, React, Angular, TypeScript, MySQL, PostgreSQL, Java, Spring Boot, AWS, Git.
 
 ## 🛠️ Tech Stack
 
