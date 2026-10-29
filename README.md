@@ -2,61 +2,36 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2D9CDB&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Dumith+Lusena;Associate+Full+Stack+Developer;Building+Modern+Applications+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
-👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a Full Stack Developer at Polygon Holdings, passionate about building modern, scalable, and user-friendly applications. I enjoy working across the frontend and backend, solving real-world problems, and continuously improving my software engineering skills.
+I'm an Associate Full Stack Developer at **Polygon Holdings**, passionate about building modern, scalable, and user-friendly applications. I enjoy working across the frontend and backend, solving real-world problems, and continuously improving my software engineering skills.
 
-Currently pursuing my Pearson BTEC HND in Computing (Software Engineering) at Saegis Campus while gaining hands-on industry experience in software development.
+- 💼 **Current Role:** Associate Full Stack Developer
+- 🏢 **Company:** Polygon Holdings
+- 📫 **Email:** [dumithlusena123@gmail.com](mailto:dumithlusena123@gmail.com)
 
-💼 Current Role: Associate Full Stack Developer
+---
 
-🏢 Company: Polygon Holdings
+## 💼 Professional Experience
 
-🎓 Education: Pearson BTEC HND in Computing (Software Engineering) — Saegis Campus
-
-💻 Frontend: React, Next.js, Angular, TypeScript
-
-⚙️ Backend: Node.js, Express.js, Java, Spring Boot
-
-🗄️ Databases: MySQL, PostgreSQL
-
-☁️ Cloud & Deployment: AWS, Vercel, Railway
-
-📱 Mobile Development: Exploring Flutter and React Native
-
-🤖 Interests: AI-powered applications, cloud technologies, and scalable software systems
-
-📫 Email: dumithlusena123@gmail.com
-
-I started my professional journey as a Full Stack Developer Intern and continue to grow through hands-on development, collaboration, debugging, and delivering practical software solutions.
-
-💼 Professional Experience
-
-🚀 Associate Full Stack Developer | Polygon Holdings
-
-Career progression: Full Stack Developer Intern → Associate Full Stack Developer
+### 🚀 Associate Full Stack Developer | Polygon Holdings
 
 Working on real-world software applications, contributing to frontend and backend development, API integration, database operations, and application improvements.
 
-Key Areas of Experience:
+**Key Areas of Experience**
 
-Developing and maintaining modern web applications.
+- Developing and maintaining modern web applications
+- Building and integrating RESTful APIs
+- Working with frontend frameworks and backend technologies
+- Managing relational databases and writing SQL queries
+- Implementing authentication and role-based access control
+- Debugging application issues and improving existing functionality
+- Collaborating through Git-based development workflows
+- Working with deployment platforms and cloud technologies
 
-Building and integrating RESTful APIs.
+**Technologies:** Node.js, Express.js, Next.js, Angular, TypeScript, MySQL, Git
 
-Working with frontend frameworks and backend technologies.
-
-Managing relational databases and writing SQL queries.
-
-Implementing authentication and role-based access control.
-
-Debugging application issues and improving existing functionality.
-
-Collaborating through Git-based development workflows.
-
-Working with deployment platforms and cloud technologies.
-
-Technologies: Node.js, Express.js, Next.js, React, Angular, TypeScript, MySQL, PostgreSQL, Java, Spring Boot, AWS, Git.
+---
 
 ## 🛠️ Tech Stack
 
@@ -100,11 +75,11 @@ Technologies: Node.js, Express.js, Next.js, React, Angular, TypeScript, MySQL, P
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dumithlusena&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dumithlusena&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumithlusena&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dumithlusena&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=dumithlusena&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -112,7 +87,7 @@ Technologies: Node.js, Express.js, Next.js, React, Angular, TypeScript, MySQL, P
 ## 🤝 Connect With Me
 
 <div align="center">
-  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dumith-hasanka-292968370/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dumithlusena123@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dumithlusena)
@@ -122,17 +97,11 @@ Technologies: Node.js, Express.js, Next.js, React, Angular, TypeScript, MySQL, P
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
 
-<div align="center">
-  
 ### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-</div>
-
-<div align="center">
-  
 **⭐ From [dumithlusena](https://github.com/dumithlusena)**
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer" />
